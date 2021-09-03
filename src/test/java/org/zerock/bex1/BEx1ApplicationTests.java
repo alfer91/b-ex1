@@ -8,6 +8,7 @@ class BEx1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("contextLoads...");
 	}
 
 }
